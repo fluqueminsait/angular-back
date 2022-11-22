@@ -1,0 +1,10 @@
+{
+  "users": [],
+  "newCharacters": [
+    {
+      "characterNameForm": "prueba3",
+      "characterImageForm": "https://rickandmortyapi.com/api/character/avatar/1.jpeg",
+      "id": 18
+    }
+  ]
+}
